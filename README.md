@@ -11,3 +11,13 @@ Data which is collected by tracking our clicks on websites and searching for pat
 1. 2019-Oct.csv- https://e-commerce-events-ml.s3.amazonaws.com/2019-Oct.csv
 2. 2019-Nov.csv - https://e-commerce-events-ml.s3.amazonaws.com/2019-Nov.csv
 3.  Attribute description – Excel file which contains attribute details
+
+### Analysis answered the below questions
+1. Find the total revenue generated due to purchases made in October.
+2. Write a query to yield the total sum of purchases per month in a single output. 
+3. Write a query to find the change in revenue generated due to purchases from October to November.
+4. Find distinct categories of products. Categories with null category code can be ignored.
+5. Find the total number of products available under each category.
+6. Which brand had the maximum sales in October and November combined?
+7. Which brands increased their sales from October to November?
+8. Your company wants to reward the top 10 users of its website with a Golden Customer plan. Write a query to generate a list of top 10 users who spend the most.
